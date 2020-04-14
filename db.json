@@ -20,27 +20,33 @@
         "IncidentsType": [
             {
                 "title": "Phishing",
-                "number": "1"
+                "number": "1",
+                "color": "#C00000"
             },
             {
                 "title": "Cyber Evil-Twin Site",
-                "number": "1"
+                "number": "1",
+                "color": "#EFD1A0"
             },
             {
                 "title": "Cybersquatting",
-                "number": "1"
+                "number": "1",
+                "color": "#0C8A79"
             },
             {
                 "title": "Social Media Fraud",
-                "number": "1"
+                "number": "1",
+                "color": "#558ED5"
             },
             {
                 "title": "Text 1",
-                "number": "1"
+                "number": "1",
+                "color": "#FF4200"
             },
             {
                 "title": "Text 2",
-                "number": "1"
+                "number": "1",
+                "color": "#FFB400"
             }
         ]
     },
