@@ -1,9 +1,89 @@
 {
-    "data":[
-        "Incidents":[
+    "Homepage": {
+        "IncidentsNumber": {
+            "total": "96",
+            "open": "11",
+            "addressed": "85",
+            "monitoring": "0",
+            "feedback_required": "0"
+        }
+    },
+    "Severitypage": {
+        "IncidentsBySeverity": {
+            "high": "96",
+            "medium": "11",
+            "low": "85",
+            "fyi": "0"
+        }
+    },
+    "Typepage": {
+        "IncidentsType": [
             {
-                "total:"96"
+                "title": "Phishing",
+                "number": "1"
             },
+            {
+                "title": "Cyber Evil-Twin Site",
+                "number": "1"
+            },
+            {
+                "title": "Cybersquatting",
+                "number": "1"
+            },
+            {
+                "title": "Social Media Fraud",
+                "number": "1"
+            },
+            {
+                "title": "Text 1",
+                "number": "1"
+            },
+            {
+                "title": "Text 2",
+                "number": "1"
+            }
         ]
-    ]
+    },
+    "Meterpage": {
+        "IncidentsByMeter": {
+            "pending": "11",
+            "Addressed": "85"
+        },
+        "Addressed": [
+            {
+                "year": "2014",
+                "sales": 5
+            },
+            {
+                "year": "2015",
+                "sales": 25
+            },
+            {
+                "year": "2016",
+                "sales": 99
+            },
+            {
+                "year": "2017",
+                "sales": 66
+            }
+        ],
+        "Pending": [
+            {
+                "year": "2014",
+                "sales": 23
+            },
+            {
+                "year": "2015",
+                "sales": 49
+            },
+            {
+                "year": "2016",
+                "sales": 13
+            },
+            {
+                "year": "2017",
+                "sales": 25
+            }
+        ]
+    }
 }
