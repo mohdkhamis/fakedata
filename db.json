@@ -1,12 +1,7 @@
 {
-    "response_code": 200,
-    "Message": "Successful",
-    "data": [
+    "data":[
         {
-            "car_id": "1",
-            "name": "gtr",
-            "model": "2099",
-            "img": "img/gtr.jpg"
+            "test": "1"
         }
     ]
 }
